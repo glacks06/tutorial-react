@@ -1,3 +1,5 @@
 https://react.dev/learn/tutorial-tic-tac-toe
 
 https://ko.legacy.reactjs.org/docs/rendering-elements.html
+
+Declaring a winner 
